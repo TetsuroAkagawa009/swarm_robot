@@ -1,7 +1,8 @@
 # 3台のロボットの位置と角度を取得するプログラム
 - IMAGE_Init()：初期設定
 - IMAGE_Get(pipe, align)：カメラから画像を取得
-- IMAGE_GetPosi_GetAng(image)：入力画像から3台のロボットのxy座標と角度(deg)を配列で返す  
+- IMAGE_GetPosi_GetAng(image)：入力画像から3台のロボットのxy座標と角度(deg)を配列で返す
+  
 ※ 詳しい使い方はコメントアウトしたmain文を参照
 
 ## 位置について
